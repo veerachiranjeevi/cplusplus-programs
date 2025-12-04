@@ -9,8 +9,10 @@ I will keep updating this repo regularly with new exercises and mini-projects! �
 - 🔰 **Basics** — Intro programs & beginner concepts  
 - ➕ **Operators** — Arithmetic operations  
 - 🔁 **Loops** — Repeated patterns & table programs  
-- 📊 **Arrays** — Basic array operations (Max, Min, Sum & Average)  
-- 🧩 **Mini-Projects** — Real-world style small apps  
+- 📊 **Arrays** — Basic operations (Max, Min, Sum, Average, Search, Frequency)  
+- 🧩 **Mini-Projects** — 
+    - Calculator (Menu-driven)
+    - Distance Converter
 
 ---
 
@@ -19,10 +21,11 @@ I will keep updating this repo regularly with new exercises and mini-projects! �
 ✔ Variables and Datatypes  
 ✔ Arithmetic Operators  
 ✔ Loops (for, while)  
-✔ Arrays (Basics, Max, Min, Sum & Average)  
+✔ Arrays (Operations & Search Techniques)  
+✔ Mini Projects (Console Applications)  
 ⬜ Functions  
 ⬜ Classes & OOP  
-⬜ File Handling  
+⬜ File Handling    
 
 ---
 
