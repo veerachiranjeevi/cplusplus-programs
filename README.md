@@ -8,7 +8,8 @@ I will keep updating this repo regularly with new exercises and mini-projects! �
 ## 📁 Folder Structure
 - 🔰 **Basics** — Intro programs & beginner concepts  
 - ➕ **Operators** — Arithmetic operations  
-- 🔁 **Loops** — Repeated pattern & table programs  
+- 🔁 **Loops** — Repeated patterns & table programs  
+- 📊 **Arrays** — Basic array operations (Max, Min, Sum & Average)  
 - 🧩 **Mini-Projects** — Real-world style small apps  
 
 ---
@@ -18,7 +19,7 @@ I will keep updating this repo regularly with new exercises and mini-projects! �
 ✔ Variables and Datatypes  
 ✔ Arithmetic Operators  
 ✔ Loops (for, while)  
-⬜ Arrays (Coming soon!)  
+✔ Arrays (Basics, Max, Min, Sum & Average)  
 ⬜ Functions  
 ⬜ Classes & OOP  
 ⬜ File Handling  
@@ -33,3 +34,4 @@ Learning software development one step at a time 💪
 
 ⭐ Stay tuned for more cool programs & projects!  
 Follow my growth on GitHub 🚀
+�
