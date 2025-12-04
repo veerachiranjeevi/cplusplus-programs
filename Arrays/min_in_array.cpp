@@ -9,12 +9,14 @@ int main()
     cout<<"enter "<<n<<" elements"<<endl;
     for (i=0;i<n;i++)
     cin>>arr[i];
-    min=arr[0];
+    min=arr[0];       // Assume first is minimum
     for(i=1;i<n;i++)
-    if(min>arr[i])
+    if(min>arr[i])      // Compare and update
     min=arr[i];
     cout<<"the minimum value is:"<<min<<endl;
     cin.ignore();
     cin.get();
     return 0;
 }
+
+
