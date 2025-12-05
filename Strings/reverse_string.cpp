@@ -6,7 +6,7 @@ int main()
 {
     string stri;
     cout << "Enter a string: ";
-    getline(cin, stri);
+    getline(cin, stri);      // Taking string input
 
     int i = 0;
     int j = stri.length() - 1;
@@ -14,15 +14,13 @@ int main()
 
     while(i < j)
     {
-        temp = stri[i];
+        temp = stri[i];      // Swapping characters to reverse string
         stri[i] = stri[j];
         stri[j] = temp;
         
         i++;
         j--;
     }
-
-    cout << "Reverse of string is: " << stri << endl;
-
+    cout << "Reverse of string is: " << stri << endl;        // Displaying reversed string
     return 0;
 }
