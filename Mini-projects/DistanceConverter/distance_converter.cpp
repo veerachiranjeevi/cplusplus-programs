@@ -13,7 +13,7 @@ int main() {
     double meters;
 
     cout << "Enter the distance: ";
-    cin >> value;
+    cin >> value;      // Taking input distance from user
 
     cout << "\nSelect the input unit:\n";
     cout << "1. Miles\n";
@@ -21,10 +21,9 @@ int main() {
     cout << "3. Meters\n";
     cout << "4. Feet\n";
     cout << "Enter choice: ";
-    cin >> choice;
+    cin >> choice;        // Showing menu to select the input unit
 
-    // Convert everything to meters first
-    switch (choice) {
+    switch (choice) {              // Convert input to meters first based on unit selected
         case 1:
             meters = value * MILE_TO_KM * KM_TO_M;
             break;
@@ -42,12 +41,11 @@ int main() {
             return 0;
     }
 
-    // Converting to other units
     double kilometers = meters / KM_TO_M;
     double miles = kilometers / MILE_TO_KM;
-    double feet = meters * M_TO_FEET;
+    double feet = meters * M_TO_FEET;            // Convert meters to kilometers, miles and feet
 
-    cout << "\nConverted Values:\n";
+    cout << "\nConverted Values:\n";             // Display all converted values
     cout << "Miles: " << miles << endl;
     cout << "Kilometers: " << kilometers << endl;
     cout << "Meters: " << meters << endl;
@@ -55,3 +53,12 @@ int main() {
 
     return 0;
 }
+
+
+
+
+
+
+
+
+
