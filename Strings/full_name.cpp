@@ -9,7 +9,8 @@ int main()
     cout << "Enter your full name: " << endl;
     getline(cin, name); // Input full name including spaces
 
-    cout << "Hello " << name << endl;
+    cout << "Hello " << name << endl;      // Displaying the input name
+
 
     return 0;
 }
