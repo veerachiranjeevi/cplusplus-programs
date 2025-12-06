@@ -14,7 +14,7 @@ I will keep updating this repo regularly with new exercises and mini-projects! �
 - 🧠 **Functions**
   - Void & Return functions  
   - Max of two numbers  
-  - Pass by reference  
+  - Pass-by-reference  
   - Mini-Project: Calculator  
 - 🧩 **Pointers**
   - Pointer basics  
@@ -25,11 +25,17 @@ I will keep updating this repo regularly with new exercises and mini-projects! �
 
 ---
 
+## 🧩 Mini Projects Completed
+- 🧮 Calculator using functions  
+- 📏 Distance Converter using menu + logic  
+( More mini projects coming soon… 🚀 )
+
+---
+
 ## 🔥 Skills Learning Progress
 ✔ Input & Output (cin / cout)  
-✔ Variables and Datatypes  
-✔ Arithmetic Operators  
-✔ Loops (for, while)  
+✔ Variables & Datatypes  
+✔ Operators & Loops  
 ✔ Arrays (Basic operations & search techniques)  
 ✔ Strings (Basic operations)  
 ✔ Functions (Console mini project done)  
@@ -37,14 +43,13 @@ I will keep updating this repo regularly with new exercises and mini-projects! �
 ⬜ Structures  
 ⬜ File Handling  
 ⬜ Classes & OOP  
-⬜ File Handling  
 ⬜ STL  
 
 ---
 
 ## 👨‍💻 Author
 **Veera Chiranjeevi** – ECE Student  
-Learning software development one step at a time 💪  
+ECE learner + future software developer 💪🚀  
 
 ---
 
