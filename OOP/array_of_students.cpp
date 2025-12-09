@@ -16,6 +16,7 @@ public:
         cin.ignore(); // Prepare for next getline
     }
 
+
     void display() {
         cout << "Name : " << name << endl;
         cout << "Roll : " << roll << endl;
