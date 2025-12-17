@@ -82,30 +82,33 @@ Each folder is organized **topic-wise** for easy navigation and revision.
 ### 🔹 Data Structures & Algorithms (DSA)
 
 #### Arrays
-- Reverse Array  
-- Maximum & Minimum  
-- Second Largest Element  
-- Check if Array is Sorted  
-- Frequency Count  
-- Rotate Array by K  
-- Two Sum (Brute Force)  
+- Reverse Array
+- Maximum & Minimum
+- Second Largest Element
+- Check if Array is Sorted
+- Frequency Count
+- Rotate Array by K
+- Two Sum (Brute Force)
 
 #### Searching
-- Linear Search  
-- Binary Search (Iterative & Recursive)  
+- Linear Search
+- Binary Search (Iterative & Recursive)
 
 #### Sorting
-- Bubble Sort  
-- Selection Sort  
-- Insertion Sort  
-- Merge Sort  
-- Quick Sort  
-- Heap Sort  
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
 
-All DSA programs follow:
-- One program → one file  
-- Clear naming with numbering  
-- Focus on understanding over shortcuts  
+#### Queue (Array Implementation)
+- Enqueue Operation
+- Dequeue Operation
+- Display Front & Rear Elements
+- Display Queue Elements
+- Menu-Driven Queue Program
+
 
 ---
 
