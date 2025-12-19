@@ -6,7 +6,7 @@ struct Node {
     Node* left;
     Node* right;
 };
-
+ 
 int countLeafNodes(Node* node) {
     if (node == NULL)
         return 0;
